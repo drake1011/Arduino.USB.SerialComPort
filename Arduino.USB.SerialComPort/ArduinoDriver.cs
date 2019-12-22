@@ -4,7 +4,7 @@ using System.IO.Ports;
 
 namespace Arduino.USB.SerialComPort
 {
-    internal class ArduinoDriver : IDisposable
+    public class ArduinoDriver : IDisposable
     {
         private SerialPort Serial;
         private bool Reading_Ended { get; set; }
