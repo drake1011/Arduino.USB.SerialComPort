@@ -10,6 +10,7 @@
     <PackageProjectUrl>https://github.com/drake1011/Arduino.USB.SerialComPort</PackageProjectUrl>
     <PackageTags>Arduino UNO</PackageTags>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
